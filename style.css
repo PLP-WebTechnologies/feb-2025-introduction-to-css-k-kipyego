@@ -1,0 +1,42 @@
+/* Element selector */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f0f4f8;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* ID selector */
+#main-heading {
+    color: #2c3e50;
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Class selector */
+.sub-heading {
+    text-align: center;
+    color: #5dade2;
+    font-size: 1.2em;
+    margin-bottom: 30px;
+}
+
+/* Another class selector */
+.content {
+    margin: 20px;
+    padding: 15px;
+    border: 2px solid #ccc;
+    background-color: #fff;
+}
+
+/* Styling an image */
+.styled-image {
+    width: 100%;
+    max-width: 400px;
+    border: 5px solid #5dade2;
+    padding: 10px;
+    display: block;
+    margin: 20px auto;
+    border-radius: 10px;
+}
